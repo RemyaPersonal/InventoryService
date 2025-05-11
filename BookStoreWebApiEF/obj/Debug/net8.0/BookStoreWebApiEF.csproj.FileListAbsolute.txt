@@ -1,0 +1,161 @@
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\appsettings.json
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\BookStoreWebApiEF.staticwebassets.endpoints.json
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\BookStoreWebApiEF.exe
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\BookStoreWebApiEF.deps.json
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\BookStoreWebApiEF.runtimeconfig.json
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\BookStoreWebApiEF.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\BookStoreWebApiEF.pdb
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStoreWebApiEF.csproj.AssemblyReference.cache
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStoreWebApiEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStoreWebApiEF.AssemblyInfoInputs.cache
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStoreWebApiEF.AssemblyInfo.cs
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStoreWebApiEF.csproj.CoreCompileInputs.cache
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStoreWebApiEF.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStoreWebApiEF.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\scopedcss\bundle\BookStoreWebApiEF.styles.css
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\staticwebassets\msbuild.BookStoreWebApiEF.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\staticwebassets\msbuild.BookStoreWebApiEF.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\staticwebassets\msbuild.build.BookStoreWebApiEF.props
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookStoreWebApiEF.props
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookStoreWebApiEF.props
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStor.07B2AF76.Up2Date
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStoreWebApiEF.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\refint\BookStoreWebApiEF.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStoreWebApiEF.pdb
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStoreWebApiEF.genruntimeconfig.cache
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\ref\BookStoreWebApiEF.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Model.dll
+C:\Users\100939\source\repos\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Model.pdb
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\appsettings.Development.json
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\appsettings.json
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\BookStoreWebApiEF.exe
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\BookStoreWebApiEF.deps.json
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\BookStoreWebApiEF.runtimeconfig.json
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\BookStoreWebApiEF.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\BookStoreWebApiEF.pdb
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Azure.Core.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Azure.Identity.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\System.Memory.Data.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Model.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Model.pdb
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStoreWebApiEF.csproj.AssemblyReference.cache
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStoreWebApiEF.GeneratedMSBuildEditorConfig.editorconfig
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStoreWebApiEF.AssemblyInfoInputs.cache
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStoreWebApiEF.AssemblyInfo.cs
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStoreWebApiEF.csproj.CoreCompileInputs.cache
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStoreWebApiEF.MvcApplicationPartsAssemblyInfo.cs
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStoreWebApiEF.MvcApplicationPartsAssemblyInfo.cache
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\staticwebassets.build.json
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\staticwebassets.development.json
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\staticwebassets\msbuild.BookStoreWebApiEF.Microsoft.AspNetCore.StaticWebAssets.props
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\staticwebassets\msbuild.build.BookStoreWebApiEF.props
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookStoreWebApiEF.props
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookStoreWebApiEF.props
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\staticwebassets.pack.json
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\scopedcss\bundle\BookStoreWebApiEF.styles.css
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStor.07B2AF76.Up2Date
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStoreWebApiEF.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\refint\BookStoreWebApiEF.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStoreWebApiEF.pdb
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\BookStoreWebApiEF.genruntimeconfig.cache
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\obj\Debug\net8.0\ref\BookStoreWebApiEF.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\RabbitMQ.Client.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Npgsql.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+F:\MTech\Second Semester\Scalable Services\BookStoreWebApiEF\BookStoreWebApiEF\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll

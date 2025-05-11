@@ -1,0 +1,6 @@
+@BookStoreWebApiEF_HostAddress = http://localhost:5241
+
+GET {{BookStoreWebApiEF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

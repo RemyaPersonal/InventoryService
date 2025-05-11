@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "BookStoreWebApiEF.Controllers.BookStoreController",
+    "Method": "POST",
+    "RelativePath": "api/BookStore/AddNewBook",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Model.Model.TblBookstore",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookStoreWebApiEF.Controllers.BookStoreController",
+    "Method": "DELETE",
+    "RelativePath": "api/BookStore/DeleteBook",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookStoreWebApiEF.Controllers.BookStoreController",
+    "Method": "UPDATE",
+    "RelativePath": "api/BookStore/UpdateBook",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Model.Model.TblBookstore",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookStoreWebApiEF.Controllers.BookStoreController",
+    "Method": "GET",
+    "RelativePath": "api/BookStore/ViewAllBooks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
